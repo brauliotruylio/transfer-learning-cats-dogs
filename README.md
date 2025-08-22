@@ -1,7 +1,7 @@
 # 🐱🐶 Transfer Learning: Classificação de Gatos e Cachorros (VGG16)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/brauliotruylio/transfer-learning-cats-dogs/blob/main/treinamento-redes-neurais-transfer-learnin.ipynb)
+https://colab.research.google.com/github/brauliotruylio/transfer-learning-cats-dogs/blob/main/treinamento-redes-neurais-transfer-learning.ipynb)
 
 ## 📌 Descrição
 
